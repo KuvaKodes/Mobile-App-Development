@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fragment Example Dynamic</string>
+    <string name="greeting">Hello TJHSST</string>
+    <string name="button_click">Click Me</string>
+    <string name="greeting2">I\'m home!!!</string>\
+    <string name="count">Count: %1$d</string>
+    <string name="clicked_message">I\'ve been clicked</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lab02</string>
+    <string name="increment">Increment</string>
+    <string name="HelloFam">Hello Mr. Vardhan</string>
+    <string name="decrement">Decrement</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="likes_count">You have %1$d likes!</string>
+    <string name="Name_Request">Your Name Here Please</string>
+    <string name="display_text">Display Text</string>
+    <string name="down">Down</string>
+    <string name="up">Up</string>
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+    </string-array>
+</resources>
